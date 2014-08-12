@@ -1,0 +1,77 @@
+c:\users\קובי\documents\visual studio 2010\Projects\WcfEmail\WcfEmail\bin\Debug\WcfEmail.dll.config
+c:\users\קובי\documents\visual studio 2010\Projects\WcfEmail\WcfEmail\bin\Debug\WcfEmail.dll
+c:\users\קובי\documents\visual studio 2010\Projects\WcfEmail\WcfEmail\bin\Debug\WcfEmail.pdb
+c:\users\קובי\documents\visual studio 2010\Projects\WcfEmail\WcfEmail\obj\Debug\WcfEmail.dll
+c:\users\קובי\documents\visual studio 2010\Projects\WcfEmail\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\obj\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\bin\Debug\WcfEmail.dll.config
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\bin\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\bin\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 28.4.14\WcfEmail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\bin\Debug\WcfEmail.dll.config
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\bin\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\bin\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\obj\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail - 29.4.14\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\obj\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\bin\Debug\WcfEmail.dll.config
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\bin\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -30.4.14\WcfEmail\bin\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\bin\Debug\WcfEmail.dll.config
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\bin\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\bin\Debug\WcfEmail.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\obj\Debug\WcfEmail.dll
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\WcfEmail -02.05.2014\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\bin\Debug\WcfEmail.dll.config
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\bin\Debug\WcfEmail.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\bin\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\obj\Debug\WcfEmail.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\obj\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\WcfEmail\bin\Debug\Common.pdb
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll.config
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.pdb
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.dll
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.pdb
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.dll
+C:\Users\8lab309\Downloads\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.pdb
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll.config
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.pdb
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.dll
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.pdb
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\ResolveAssemblyReference.cache
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.dll
+S:\Kobi Berkovich\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.pdb
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll.config
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.pdb
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.dll
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.pdb
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.dll
+C:\Users\Amit\Desktop\Email1334\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll.config
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.pdb
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.dll
+C:\Users\Alex\Downloads\Email\email1511\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.pdb
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll.config
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.dll
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\WcfEmail.pdb
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.dll
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\bin\Debug\Common.pdb
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.csprojResolveAssemblyReference.cache
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.dll
+C:\Users\Tamar\Desktop\Email\wcfemail -07.05.2014\wcfemail\obj\Debug\WcfEmail.pdb

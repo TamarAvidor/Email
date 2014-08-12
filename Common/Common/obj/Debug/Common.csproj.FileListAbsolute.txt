@@ -1,0 +1,25 @@
+C:\Users\Alex\Downloads\Alex\Common\Common\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Alex\Common\Common\bin\Debug\Common.pdb
+C:\Users\Alex\Downloads\Alex\Common\Common\obj\Debug\Common.dll
+C:\Users\Alex\Downloads\Alex\Common\Common\obj\Debug\Common.pdb
+C:\Users\Alex\Downloads\Alex\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\8lab309\Downloads\Email\Common\Common\bin\Debug\Common.dll
+C:\Users\8lab309\Downloads\Email\Common\Common\bin\Debug\Common.pdb
+C:\Users\8lab309\Downloads\Email\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\8lab309\Downloads\Email\Common\Common\obj\Debug\Common.dll
+C:\Users\8lab309\Downloads\Email\Common\Common\obj\Debug\Common.pdb
+S:\Kobi Berkovich\Email\Common\Common\bin\Debug\Common.dll
+S:\Kobi Berkovich\Email\Common\Common\bin\Debug\Common.pdb
+S:\Kobi Berkovich\Email\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+S:\Kobi Berkovich\Email\Common\Common\obj\Debug\Common.dll
+S:\Kobi Berkovich\Email\Common\Common\obj\Debug\Common.pdb
+C:\Users\Alex\Downloads\Email\email1511\Common\Common\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Email\email1511\Common\Common\bin\Debug\Common.pdb
+C:\Users\Alex\Downloads\Email\email1511\Common\Common\obj\Debug\Common.dll
+C:\Users\Alex\Downloads\Email\email1511\Common\Common\obj\Debug\Common.pdb
+C:\Users\Alex\Downloads\Email\email1511\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Tamar\Desktop\Email\Common\Common\bin\Debug\Common.dll
+C:\Users\Tamar\Desktop\Email\Common\Common\bin\Debug\Common.pdb
+C:\Users\Tamar\Desktop\Email\Common\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Tamar\Desktop\Email\Common\Common\obj\Debug\Common.dll
+C:\Users\Tamar\Desktop\Email\Common\Common\obj\Debug\Common.pdb

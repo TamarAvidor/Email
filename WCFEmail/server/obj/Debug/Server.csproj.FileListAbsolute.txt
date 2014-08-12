@@ -1,0 +1,10 @@
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\bin\Debug\Server.exe.config
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\bin\Debug\Server.exe
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\bin\Debug\Server.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\bin\Debug\WcfEmail.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\bin\Debug\WcfEmail.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\obj\Debug\Server.exe
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\obj\Debug\Server.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

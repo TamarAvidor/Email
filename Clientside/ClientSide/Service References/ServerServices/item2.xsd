@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfEmail" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfEmail" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfUser">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="User" nillable="true" type="tns:User" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUser" nillable="true" type="tns:ArrayOfUser" />
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element name="_x003C_mailBox_x003E_k__BackingField" nillable="true" type="tns:MailBox" />
+      <xs:element name="_x003C_password_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_username_x003E_k__BackingField" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="User" nillable="true" type="tns:User" />
+  <xs:complexType name="MailBox">
+    <xs:sequence>
+      <xs:element name="_mails" nillable="true" type="tns:ArrayOfMail" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="MailBox" nillable="true" type="tns:MailBox" />
+  <xs:complexType name="ArrayOfMail">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Mail" nillable="true" type="tns:Mail" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfMail" nillable="true" type="tns:ArrayOfMail" />
+  <xs:complexType name="Mail">
+    <xs:sequence>
+      <xs:element name="_x003C_dateAndSTimeSending_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_destinationUsersList_x003E_k__BackingField" nillable="true" type="tns:ArrayOfUser" />
+      <xs:element name="_x003C_messageBody_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_messageSubject_x003E_k__BackingField" nillable="true" type="xs:string" />
+      <xs:element name="_x003C_senderName_x003E_k__BackingField" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Mail" nillable="true" type="tns:Mail" />
+</xs:schema>

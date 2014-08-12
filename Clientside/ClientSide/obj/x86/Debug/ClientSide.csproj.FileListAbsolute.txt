@@ -1,0 +1,148 @@
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.pdb
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\קובי\Desktop\רשתות תקשורת\עבודת הגשה 1\ClientSide\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Alex\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\8lab309\Downloads\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.read.1.tlog
+S:\Kobi Berkovich\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Email1141\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+D:\Email1141\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+D:\Email1141\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+D:\Email1141\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+D:\Email1141\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowUserInbox.resources
+D:\Email1141\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowMessage.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.InputNumberForm.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowMessage.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowUserInbox.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\Amit\Desktop\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.InputNumberForm.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowMessage.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowUserInbox.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Email1437\Email1334\clientside - 07.05.2014\ClientSide\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.InputNumberForm.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowMessage.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowUserInbox.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\Alex\Downloads\Email\email1511\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.exe
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.pdb
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.dll
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\bin\Debug\Common.pdb
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.InputNumberForm.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Login.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Main.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ManageExistingMessagesForm.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.NewMessageForm.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowMessage.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.ShowUserInbox.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.SignUp.resources
+C:\Users\Tamar\Desktop\Email\clientside - 07.05.2014\ClientSide\obj\x86\Debug\ClientSide.csproj.GenerateResource.Cache

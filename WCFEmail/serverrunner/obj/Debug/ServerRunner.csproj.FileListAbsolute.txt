@@ -1,0 +1,8 @@
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\bin\ServerRunner.dll.config
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\bin\ServerRunner.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\bin\ServerRunner.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\bin\WcfEmail.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\bin\WcfEmail.pdb
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\obj\Debug\ServerRunner.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\obj\Debug\ServerRunner.dll
+C:\Users\Alex\Downloads\Alex\wcfemail -07.05.2014\ServerRunner\obj\Debug\ServerRunner.pdb

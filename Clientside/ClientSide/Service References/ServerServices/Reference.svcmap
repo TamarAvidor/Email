@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d3ff23cd-6a68-43ba-9303-4a42674b61c2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="EmailService.wsdl" MetadataType="Wsdl" ID="eb34926a-7d70-40ba-810b-c89a4ab4f8a3" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/?wsdl" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="a5f42337-98e0-477a-9513-1891cc0439bd" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="6db9831d-ec00-44f0-8e9e-0b3377e0110d" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/?disco" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="dc2f1214-b46c-45cb-96a0-c9b6bc050e67" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="4ab1af45-3aa7-475e-a7d6-edcb1ff7f0d5" SourceId="1" SourceUrl="http://localhost:8732/Design_Time_Addresses/WcfEmail/Service1/?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
